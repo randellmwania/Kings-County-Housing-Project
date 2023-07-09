@@ -46,16 +46,6 @@ A linear regression model was implemented to predict house prices based on the s
 
 Based on the results of the model, I provided recommendations to stakeholders regarding the impact of renovations and specific features on the estimated value of homes. By highlighting the most influential factors, homeowners can make informed decisions to increase their property's value and appeal in the market.
 
-## Getting Started
-
-To run this project locally, please follow these steps:
-
-1. Clone the GitHub repository: `git clone [repository_url]`
-2. Install the required packages listed in the `requirements.txt` file: `pip install -r requirements.txt`
-3. Open the Jupyter Notebook file `kings_county_housing_project.ipynb` to access the code and analysis.
-
-Please note that the dataset `kc_house_data.csv` should be placed in the `data` folder of the project directory for the code to run successfully.
-
 ## Conclusion
 
 This project provides valuable insights into the factors influencing house prices in King's County through a linear regression analysis. By analyzing the dataset, performing feature engineering, and building a regression model, we can predict house prices based on various features. The recommendations provided can guide stakeholders in making informed decisions when buying or selling properties.
